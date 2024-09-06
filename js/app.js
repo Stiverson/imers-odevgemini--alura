@@ -1,7 +1,6 @@
 // console.log(dados);
-function pesquisar(){}
-
-let section = document.getElementById("resultados-pesquisa")
+function pesquisar(){
+    let section = document.getElementById("resultados-pesquisa")
 
 let resultados = ""
 
@@ -19,4 +18,7 @@ for (let personagen of personagens) {
 }
 
 section.innerHTML = resultados
+}
+
+
 
