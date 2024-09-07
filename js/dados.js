@@ -29,26 +29,24 @@ let  personagens = [
         link: "https://pt.wikipedia.org/wiki/Light_Yagami",
         tags: "Kira , Inteligente, Manipulador , Antagonista"
       },
-      // ... seus dados anteriores ...
-
-{
-  titulo: "Naruto Uzumaki",
-  descricao: "Naruto Uzumaki é o protagonista do anime Naruto. Um ninja órfão e desprezado por sua vila, Naruto busca reconhecimento e sonha em se tornar Hokage. Com sua determinação e o poder do chakra da Kyuubi, ele supera obstáculos e se torna um dos ninjas mais fortes do mundo.",
-  link: "https://pt.wikipedia.org/wiki/Naruto_Uzumaki",
-  tags: "Naruto, ninja, kyuubi, hokage, vilão da folha"
-},
-{
-  titulo: "Edward Elric",
-  descricao: "Edward Elric é o protagonista do anime Fullmetal Alchemist. Um alquimista que tenta trazer sua mãe de volta à vida, mas perde um braço e uma perna no processo. Junto com seu irmão Alphonse, Edward viaja em busca da Pedra Filosofal para restaurar seus corpos.",
-  link: "https://pt.wikipedia.org/wiki/Edward_Elric",
-  tags: "Fullmetal Alchemist, alquimista, irmão, transmutação"
-},
-{
-  titulo: "Saitama",
-  descricao: "Saitama é o protagonista do anime One-Punch Man. Um herói calvo e inexpressivamente forte que derrota qualquer inimigo com um único soco. Sua busca por um oponente à altura o leva a diversas aventuras.",
-  link: "https://pt.wikipedia.org/wiki/Saitama",
-  tags: "One-Punch Man, herói, calvo, poderoso"
-},
+      {
+        titulo: "Naruto Uzumaki",
+        descricao: "Naruto Uzumaki é o protagonista do anime Naruto. Um ninja órfão e desprezado por sua vila, Naruto busca reconhecimento e sonha em se tornar Hokage. Com sua determinação e o poder do chakra da Kyuubi, ele supera obstáculos e se torna um dos ninjas mais fortes do mundo.",
+        link: "https://pt.wikipedia.org/wiki/Naruto_Uzumaki",
+        tags: "Naruto, ninja, kyuubi, hokage, vilão da folha"
+      },
+      {
+        titulo: "Edward Elric",
+        descricao: "Edward Elric é o protagonista do anime Fullmetal Alchemist. Um alquimista que tenta trazer sua mãe de volta à vida, mas perde um braço e uma perna no processo. Junto com seu irmão Alphonse, Edward viaja em busca da Pedra Filosofal para restaurar seus corpos.",
+        link: "https://pt.wikipedia.org/wiki/Edward_Elric",
+        tags: "Fullmetal Alchemist, alquimista, irmão, transmutação"
+      },
+      {
+        titulo: "Saitama",
+        descricao: "Saitama é o protagonista do anime One-Punch Man. Um herói calvo e inexpressivamente forte que derrota qualquer inimigo com um único soco. Sua busca por um oponente à altura o leva a diversas aventuras.",
+        link: "https://pt.wikipedia.org/wiki/Saitama",
+        tags: "One-Punch Man, herói, calvo, poderoso"
+      },
 
     
 ]
